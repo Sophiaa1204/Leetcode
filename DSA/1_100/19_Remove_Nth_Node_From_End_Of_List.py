@@ -18,7 +18,7 @@ class Solution:
             p1 = p1.next
             p2 = p2.next
 
-        # gey rid of nth node
+        # get rid of nth node
         
         p2.next = p2.next.next
 
